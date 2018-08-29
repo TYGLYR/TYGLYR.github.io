@@ -20,7 +20,7 @@ ga('send', 'pageview');
 <body>
 <header>
 <div class="container home" id="navigation">
-<h2 id="name">REN Dongwei</h2>
+<h2 id="name">LU Yanrong</h2>
 </div>
 </header>
 <div class="container">
@@ -37,7 +37,7 @@ ga('send', 'pageview');
 <div align="justify">Room B511, No.55 Building,  Yaguan Road 135, Tianjin University,  Tianjin, 300350, China.</div>
 </dd>
 </dl>
-<p> <a href="mailto:yanronglu@tju.edu.cn" id="email2">csdren@tju.edu.cn</a> </p>
+<p> <a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> </p>
 <h3>Awards</h3>
 <dl class="cv">
 <dt> June 2017</dt>
