@@ -39,7 +39,7 @@
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify"> Guangquan Xu, <strong>Yanrong Lu*</strong>, Jia Liu, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 2018.</div>
+<div align="justify"> Guangquan Xu, <strong>Yanrong Lu</strong>, Jia Liu, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 2018.</div>
 </li>
 <li>
 <div align="justify"><strong> Yanrong Lu </strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.
