@@ -35,7 +35,6 @@
 <div align="justify">National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)</div>
 </dd>
 <dt></dt>
-<dt>&nbsp;</dt>
 </dl>
 <h3>Selected Publications</h3>
 <ul class="cv">
