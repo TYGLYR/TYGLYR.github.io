@@ -18,9 +18,9 @@
 <dd>
 <div align="justify"> Room B511, No.55 Building,  Yaguan Road 135, Tianjin University,  Tianjin, 300350, China.</div>
 </dd>
-<p>
+<dd>
 Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> or <a href="mailto:luyanrong1985@163.com" id="email2">luyanrong1985@163.com</a>
-</p>
+</dd>
 </dl>
 <h3>Projects</h3>
 <dl class="cv">
