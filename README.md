@@ -32,7 +32,7 @@
 </dd>
 <dt>2016-2019</dt>
 <dd>
-<div align="justify"> •	National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)</div>
+<div align="justify">National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)</div>
 </dd>
 <dt></dt>
 <dt>&nbsp;</dt>
