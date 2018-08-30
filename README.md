@@ -26,7 +26,7 @@ ga('send', 'pageview');
 <div class="container">
 <div id="section1">
 <p><img id="headshot" src="mainpage/295x393.jpg
-" alt="Benjamin R. Jack" /></p>
+" alt="XXXXXX" /></p>
 </div>
 <div id="section2">
 <h3>About</h3>
