@@ -78,8 +78,7 @@
 </div>
 </li>
 </ul>
-</div>
- <h3>Awards</h3>
+<h3>Awards</h3>
 <dl class="cv">
 <dt> June 2017</dt>
 <dd>
