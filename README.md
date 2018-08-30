@@ -5,9 +5,9 @@
 <title>LU Yanrong</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<link href="https://csdwren.github.io/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="https://csdwren.github.io/style.css">
-<link rel="stylesheet" type="text/css" href="https://csdwren.github.io/syntax.css">
+<link href="https://tyglyr.github.io/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="https://tyglyr.github.io/style.css">
+<link rel="stylesheet" type="text/css" href="https://tyglyr.github.io/syntax.css">
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
