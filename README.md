@@ -16,7 +16,7 @@
 <dl class="cv">
 <dt>Address</dt>
 <dd>
-<div align="justify">Room B511, No.55 Building,  Yaguan Road 135, Tianjin University,  Tianjin, 300350, China.</div>
+<div align="justify"> Room B511, No.55 Building,  Yaguan Road 135, Tianjin University,  Tianjin, 300350, China.</div>
 </dd>
 </dl>
 <dd>
