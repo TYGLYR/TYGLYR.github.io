@@ -79,7 +79,6 @@
 </div>
 </li>
 </ul>
-<h3>&nbsp;</h3>
 </div>
  <h3>Awards</h3>
 <dl class="cv">
