@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-	<title>REN Dongwei</title>
-</head>
+
 <body>
 <header>
 <div class="container home" id="navigation">
