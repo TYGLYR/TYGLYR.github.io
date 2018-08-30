@@ -19,29 +19,25 @@
 <div align="justify">Room B511, No.55 Building,  Yaguan Road 135, Tianjin University,  Tianjin, 300350, China.</div>
 </dd>
 </dl>
-<p> <a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> </p>
-<h3>Awards</h3>
+<p> Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> </p>
+<h3>Projects</h3>
 <dl class="cv">
-<dt> June 2017</dt>
+<dt> 2018-2019</dt>
 <dd>
-<div align="justify"> Excellent Ph.D dissertation award of BUPT </div>
+<div align="justify">Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)</div>
 </dd>
-<dt> December 2016</dt>
+<dt>2015-2016</dt>
 <dd>
-<div align="justify"> The Run Technologies scholarship </div>
+<div align="justify">BUPT Excellent Ph.D. Students Foundation “Research on authenticated key agreement protocols for multi-application environments”, Grant No. CX2015310 (PI)</div>
 </dd>
-<dt> October 2015</dt>
+<dt>2016-2019</dt>
 <dd>
-<div align="justify"> National scholarship for Ph.D students </div>
-</dd>
-<dt> July 2014</dt>
-<dd>
-<div align="justify"> Best presentation award for A3 foresight program </div>
+<div align="justify"> •	National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)</div>
 </dd>
 <dt></dt>
 <dt>&nbsp;</dt>
 </dl>
-<h3>Publications</h3>
+<h3>Selected Publications</h3>
 <ul class="cv">
 <li>
 <div align="justify"> Guangquan Xu, <strong>Yanrong Lu*</strong>, Jia Liu, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 2018.</div>
@@ -85,4 +81,24 @@
 </ul>
 <h3>&nbsp;</h3>
 </div>
- 
+ <h3>Awards</h3>
+<dl class="cv">
+<dt> June 2017</dt>
+<dd>
+<div align="justify"> Excellent Ph.D dissertation award of BUPT </div>
+</dd>
+<dt> December 2016</dt>
+<dd>
+<div align="justify"> The Run Technologies scholarship </div>
+</dd>
+<dt> October 2015</dt>
+<dd>
+<div align="justify"> National scholarship for Ph.D students </div>
+</dd>
+<dt> July 2014</dt>
+<dd>
+<div align="justify"> Best presentation award for A3 foresight program </div>
+</dd>
+<dt></dt>
+<dt>&nbsp;</dt>
+</dl>
