@@ -20,7 +20,7 @@
 </dd>
 </dl>
 <p>
-&nbsp Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> or <a href="mailto:luyanrong1985@163.com" id="email2">luyanrong1985@163.com</a>
+ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> or <a href="mailto:luyanrong1985@163.com" id="email2">luyanrong1985@163.com</a>
 </p>
 <h3>Projects</h3>
 <dl class="cv">
