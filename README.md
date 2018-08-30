@@ -20,8 +20,8 @@
 </dd>
 <p>
 Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> or <a href="mailto:luyanrong1985@163.com" id="email2">luyanrong1985@163.com</a>
-</dl>
 </p>
+</dl>
 <h3>Projects</h3>
 <dl class="cv">
 <dt> 2018-2019</dt>
