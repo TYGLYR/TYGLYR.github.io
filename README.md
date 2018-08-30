@@ -11,7 +11,7 @@
 <div class="container">
 <div id="section1">
 <p><img id="001" src="001.jpg
-" height="200" width="200" alt="XXXXXX" /></p>
+" height="50" width="200" alt="XXXXXX" /></p>
 </div>
 <div id="section2">
 <h3>About</h3>
