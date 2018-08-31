@@ -12,11 +12,11 @@
 </div>
 <div id="section2">
 <h3>Assistant Professor, Tianjin University, China</h3>
-<p align="justify"> Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2009 and 2017, respectively. In 2017, she joined <a href="http://cs.tju.edu.cn/csweb/">School of Computer Science and Technology</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of authentication protocols and block cipher algorithms. In this area, she published more than 18 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
+<p align="justify"> Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cs.tju.edu.cn/csweb/">School of Computer Science and Technology</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of authentication protocols and block cipher algorithms. In this area, she published more than 18 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
 <dl class="cv">
 <dt>Address</dt>
 <dd>
-<div align="justify"> Room B331, Building 55B, Peiyang Park Campus No.135, Yaguan Road, Tianjin Haihe Education Park, Tianjin University, Tianjin, China, 300350.</div>
+<div align="justify"> Room B331, Building 55B, Peiyang Park Campus, No.135 Yaguan Road, Tianjin Haihe Education Park, Tianjin University, Tianjin, China, 300350.</div>
 </dd>
 <dd>
 Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a> or <a href="mailto:luyanrong1985@163.com" id="email2">luyanrong1985@163.com</a>
