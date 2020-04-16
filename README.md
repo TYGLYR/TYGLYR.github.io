@@ -24,6 +24,10 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 </dl>
 <h3>Projects</h3>
 <dl class="cv">
+<dt> 2019-2021</dt>
+<dd>
+<div align="justify">National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)</div>
+</dd>  
 <dt> 2018-2019</dt>
 <dd>
 <div align="justify">Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)</div>
@@ -41,7 +45,7 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify"> Yanrong Lu, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2), 1454-1465, 2019.
+<div align="justify"> Yanrong Lu, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
 </div>
 </li>
 <li>
