@@ -3,4 +3,5 @@
 theme: jekyll-theme-minimal
 title: Yanrong Lu
 description: <h3>Assistant Professor, Tianjin University, China</h3>
-logo: <p><img id="001" src="001.jpg" height="200" width="250" alt="XXXXXX" /></p>
+logo: <img id="001" src="001.jpg" height="200" width="250" alt="XXXXXX" />
+show_downloads: "false"
