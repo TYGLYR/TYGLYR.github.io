@@ -12,7 +12,7 @@
 </div>
 <div id="section2">
 <h3>Assistant Professor, Tianjin University, China</h3>
-<p align="justify"> Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cs.tju.edu.cn/csweb/">School of Computer Science and Technology</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of authentication protocols and block cipher algorithms. In this area, she published more than 18 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
+<p align="justify"> Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cs.tju.edu.cn/csweb/">School of Computer Science and Technology</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security and applied cryptography. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
 <dl class="cv">
 <dt>Address</dt>
 <dd>
@@ -45,11 +45,11 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify"> Yanrong Lu, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
+<div align="justify">  <strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
 </div>
 </li>
 <li>
-<div align="justify"> Guangquan Xu, Jia Liu, <strong>Yanrong Lu*</strong>, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 2018.</div>
+<div align="justify"> Guangquan Xu, Jia Liu, <strong>Yanrong Lu*</strong>, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 107(1):82-94,2018.</div>
 </li>
 <li>
 <div align="justify"><strong> Yanrong Lu </strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
@@ -109,3 +109,12 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <dt></dt>
 <dt>&nbsp;</dt>
 </dl>
+<h3>Services</h3>
+<dl class="cv">
+<dt> Associate Editor</dt>
+<dd>
+<div align="justify"> PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. </div>
+</dd>
+<dt></dt>
+<dt>&nbsp;</dt>
+</dl>  
