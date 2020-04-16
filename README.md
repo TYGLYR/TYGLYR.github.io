@@ -107,7 +107,6 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <div align="justify"> Best presentation award for A3 foresight program </div>
 </dd>
 <dt></dt>
-<dt>&nbsp;</dt>
 </dl>
 <h3>Services</h3>
 <dl class="cv">
