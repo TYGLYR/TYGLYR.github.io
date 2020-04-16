@@ -41,6 +41,10 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
+<div align="justify"> Yanrong Lu, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2), 1454-1465, 2019.
+</div>
+</li>
+<li>
 <div align="justify"> Guangquan Xu, Jia Liu, <strong>Yanrong Lu*</strong>, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 2018.</div>
 </li>
 <li>
