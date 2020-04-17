@@ -7,8 +7,7 @@
 </header>
 <div class="container">
 <div id="section1">
-<p><img id="001" src="001.jpg
-" height="200" width="250" alt="XXXXXX" /></p>
+<p></p>
 </div>
 <div id="section2">
 <h3></h3>
