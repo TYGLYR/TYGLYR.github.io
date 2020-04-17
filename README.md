@@ -94,18 +94,6 @@ Email:<a href="mailto:yanronglu@tju.edu.cn" id="email2">yanronglu@tju.edu.cn</a>
 <dd>
 <div align="justify"> Excellent Ph.D dissertation award of BUPT </div>
 </dd>
-<dt> December 2016</dt>
-<dd>
-<div align="justify"> The Run Technologies scholarship </div>
-</dd>
-<dt> October 2015</dt>
-<dd>
-<div align="justify"> National scholarship for Ph.D students </div>
-</dd>
-<dt> July 2014</dt>
-<dd>
-<div align="justify"> Best presentation award for A3 foresight program </div>
-</dd>
 <dt></dt>
 </dl>
 <h3>Services</h3>
