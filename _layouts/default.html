@@ -56,7 +56,7 @@
         
        <?php//数字输出的网页计数器
       $max_len = 8;
-      $CounterFile = "files/counter.dat";
+      $CounterFile = "counter.dat";
      if (!file_exists($CounterFile)) {//如果计数器文件不存在的处理
         $counter = 0;
         $cf = fopen($CounterFile, "w");//打开一个文件，在此先建立该文件
