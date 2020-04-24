@@ -52,7 +52,7 @@
      
       </section>
             
-      <footer>
+     
         
        <?php//数字输出的网页计数器
       $max_len = 8;
@@ -74,15 +74,16 @@
     fclose($cf);
     ?>
 
-    <div>欢迎您</div>
-    <p>本网站的第 <?php echo $counter; //输出计数器计数?>位访客</p>
+   // <div> </div>
+    <footer>  <p> <small>欢迎您,本网站的第 <?php echo $counter; //输出计数器计数?>位访客 </small> </p>
+     </footer>
               
         
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         
-       </footer>
+      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
