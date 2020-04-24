@@ -51,34 +51,8 @@
       {{ content }}
      
       </section>
-            
-     
-        
-       <?php
-      $max_len = 8;
-      $CounterFile = "counter.dat";
-     if (!file_exists($CounterFile)) {
-        $counter = 0;
-        $cf = fopen($CounterFile, "w");
-        fputs($cf,"0");
-        fclose($cf);
-        }else{
-        $cf = fopen($CounterFile, "r");
-        $counter = trim(fgets($cf,$max_len));
-        fclose($cf);
-         }
-   
-    $counter++;
-    $cf = fopen($CounterFile, "w");
-    fputs($cf,$counter);
-    fclose($cf);
-    ?>
-
-
-    <footer>  <p> <small>欢迎您,本网站的第 <?php echo $counter;?>位访客 </small> </p>
-     </footer>
-              
-        
+     <footer>  </footer>
+         
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
