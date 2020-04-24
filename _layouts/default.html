@@ -54,17 +54,17 @@
             
      
         
-       <?php//数字输出的网页计数器
+       <?php
       $max_len = 8;
       $CounterFile = "counter.dat";
-     if (!file_exists($CounterFile)) {//如果计数器文件不存在的处理
+     if (!file_exists($CounterFile)) {
         $counter = 0;
-        $cf = fopen($CounterFile, "w");//打开一个文件，在此先建立该文件
-        fputs($cf,"0");//初始化计算器文件
-        fclose($cf);//关闭文件
-        }else{//取回当前计数器的计数
+        $cf = fopen($CounterFile, "w");
+        fputs($cf,"0");
+        fclose($cf);
+        }else{
         $cf = fopen($CounterFile, "r");
-        $counter = trim(fgets($cf,$max_len));//移除字符串中的空格。换行。回车。制表符
+        $counter = trim(fgets($cf,$max_len));
         fclose($cf);
          }
    
@@ -75,7 +75,7 @@
     ?>
 
 
-    <footer>  <p> <small>欢迎您,本网站的第 <?php echo $counter; //输出计数器计数?>位访客 </small> </p>
+    <footer>  <p> <small>欢迎您,本网站的第 <?php echo $counter;?>位访客 </small> </p>
      </footer>
               
         
