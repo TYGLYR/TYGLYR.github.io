@@ -20,19 +20,18 @@
 <div align="justify">  <strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
 </div>
 </li>
-
-<dt> 2018-2019</dt>
-<dd>
-<div align="justify">Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)</div>
-</dd>
-<dt>2015-2016</dt>
-<dd>
-<div align="justify">BUPT Excellent Ph.D. Students Foundation “Research on authenticated key agreement protocols for multi-application environments”, Grant No. CX2015310 (PI)</div>
-</dd>
-<dt>2016-2019</dt>
-<dd>
-<div align="justify">National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)</div>
-</dd>
+ <li>
+<div align="justify">  <strong>2018-2019</strong>, Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)
+</div>
+</li>
+ <li>
+<div align="justify">  <strong>2015-2016</strong>, BUPT Excellent Ph.D. Students Foundation “Research on authenticated key agreement protocols for multi-application environments”, Grant No. CX2015310 (PI)
+</div>
+</li>
+<li>
+<div align="justify">  <strong>2016-2019</strong>, National Key Research and Development Program “Research on the basic science problems of virtual asset protection in cyberspace ”, Grant No. 2016YFB0800602 (Participant)
+</div>
+</li>
 <dt></dt>
 </ul>
 <h3>Selected Publications</h3>
