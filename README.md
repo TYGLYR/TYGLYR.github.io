@@ -16,10 +16,11 @@
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security and applied cryptography. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
 <h3>Projects</h3>
 <dl class="cv">
-<dt> 2019-2021</dt>
-<dd>
-<div align="justify">National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)</div>
-</dd>  
+ <li>
+<div align="justify">  <strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
+</div>
+</li>
+
 <dt> 2018-2019</dt>
 <dd>
 <div align="justify">Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)</div>
