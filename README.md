@@ -78,7 +78,10 @@
 </ul>
 <h3>Awards</h3>
 <u1 class="cv">
-<div align="justify"> <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT </div>
+<li>
+<div align="justify"> <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT 
+</div>
+</li>
 <dt></dt>
 </u1>
 <h3>Services</h3>
