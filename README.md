@@ -77,13 +77,13 @@
 </li>
 </ul>
 <h3>Awards</h3>
-<u1 class="cv">
+<ul class="cv">
 <li>
-<div align="justify"> <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT 
+<div align="justify">  <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT
 </div>
 </li>
-<dt></dt>
 </u1>
+<dt></dt>
 <h3>Services</h3>
 <dl class="cv">
 <dt> Associate Editor</dt>
