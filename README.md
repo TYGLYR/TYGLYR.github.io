@@ -41,14 +41,14 @@
 </div>
 </li>
 <li>
-<div align="justify"> Guangquan Xu, Jia Liu, <strong>Yanrong Lu*</strong>, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 107(1):82-94,2018.</div>
-</li>
-<li>
 <div align="justify"><strong> Yanrong Lu </strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
 </div>
 </li>
 <li>
-<div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. A novel smart card based user authentication and key agreement scheme for heterogeneous wireless sensor networks. Wireless Personal Communications. 2017.
+<div align="justify"> Guangquan Xu, Jia Liu, <strong>Yanrong Lu*</strong>, XianJiao Zeng, Yao Zhang, Xiaoming Li. A novel efficient MAKA protocol with desynchronization for anonymous roaming service in Global Mobility Networks. Journal of Network and Computer Applications. 107(1):82-94,2018.</div>
+</li>
+<li>
+<div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. A novel smart card based user authentication and key agreement scheme for heterogeneous wireless sensor networks. Wireless Personal Communications. 96(1):813-832,2017.
 </div>
 </li>
 <li>
@@ -73,10 +73,6 @@
 </li>
 <li>
 <div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. A biometrics and smart-cards based authentication scheme for multi-server environments. Security and Communication Networks. 8(17),2015.
-</div>
-</li>
-<li>
-<div align="justify"><strong>Yanrong Lu </strong>, Lixiang Li, Xing Yang，Yixian Yang. Robust biometrics based authentication and key agreement scheme for multi-server environments using smart cards. PLoS One. 10(5), 2015.
 </div>
 </li>
 </ul>
