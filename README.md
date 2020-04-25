@@ -82,14 +82,15 @@
 <div align="justify">  <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT
 </div>
 </li>
-</u1>
+</ul>
 <dt></dt>
 <h3>Services</h3>
 <ul class="cv">
 <li>
-<div align="justify"> <strong>Associate Editor</strong>,PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. </div>
+<div align="justify"> <strong>Associate Editor</strong>,PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
+</div>
 </li>
-</u1>
+</ul>
 <dt></dt>
 <dt>&nbsp;</dt>
 </dl>  
