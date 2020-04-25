@@ -17,11 +17,11 @@
 <h3>Projects</h3>
 <ul class="cv">
  <li>
-<div align="justify">  <strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
+<div align="justify"><strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
 </div>
 </li>
  <li>
-<div align="justify">  <strong>2018-2019</strong>, Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)
+<div align="justify"><strong>2018-2019</strong>, Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)
 </div>
 </li>
  <li>
@@ -41,7 +41,7 @@
 </div>
 </li>
 <li>
-<div align="justify"><strong> Yanrong Lu </strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
+<div align="justify"><strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
 </div>
 </li>
 <li>
@@ -79,7 +79,7 @@
 <h3>Awards</h3>
 <ul class="cv">
 <li>
-<div align="justify">  <strong>June 2017</strong>,Excellent Ph.D dissertation award of BUPT.
+<div align="justify">  <strong>June 2017</strong>,&nbsp;Excellent Ph.D dissertation award of BUPT.
 </div>
 </li>
 </ul>
@@ -87,7 +87,7 @@
 <h3>Services</h3>
 <ul class="cv">
 <li>
-<div align="justify"> <strong>Associate Editor</strong>,PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
+<div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
 </div>
 </li>
 </ul>
