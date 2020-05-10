@@ -11,10 +11,10 @@
 </div>
 <div id="section2">
 <h3></h3>
-<p align="justify"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正在招收2020年研究生，如你对信息安全、网络安全感兴趣，或者对新兴技术应用感兴趣，欢迎加入，我愿和你共同学习成长！同时也欢迎优秀本科生参与！</b></p>
+<p align="justify"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正在招收2020年研究生，如你对信息安全、网络安全、未来网络感兴趣，或者对新兴技术应用感兴趣，欢迎加入，我愿和你共同学习成长！同时也欢迎优秀本科生参与！</b></p>
 <h3></h3>  
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc and her PhD in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security and applied cryptography. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
-<h3>Projects</h3>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography(密码学) from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security(信息安全),applied cryptography(应用密码学) and future network(未来网络). In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
+<h3>Projects</h3>项目
 <ul class="cv">
  <li>
 <div align="justify"><strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
@@ -26,7 +26,7 @@
 </li>
 <dt></dt>
 </ul>
-<h3>Selected Publications</h3>
+<h3>Selected Publications</h3>部分论文
 <ul class="cv">
 <li>
 <div align="justify">  <strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
@@ -43,27 +43,23 @@
 <div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. An anonymous two-factor authenticated key agreement scheme for session initiation protocol using elliptic curve cryptography. Multimedia Tools and Applications. 76(2), 2017.
 </div>
 </li>
-<li>
-<div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. A secure and efficient mutual authentication scheme for session initiation protocol. Peer-to-Peer Networking and Applications. 9(2), 2016.
-</div>
-</li>
 </ul>
 <dt></dt>
-<h3>Services</h3>
+<h3>Services</h3>服务
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
 </div>
 </li>
 </ul>
- <h3>Teaching</h3>
+ <h3>Teaching</h3>教学
 <ul class="cv">
 <li>
 <div align="justify"><strong> Data Structure</strong>, Fall 2019 (BEng level). 
 </div>
 </li>
 </ul>
-<h3>Awards</h3>
+<h3>Awards</h3>奖励
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Excellent Ph.D dissertation award of BUPT</strong>,&nbsp;June 2017.
