@@ -17,11 +17,11 @@
 <h3>Projects</h3>项目
 <ul class="cv">
  <li>
-<div align="justify"><strong>2019-2021</strong>, National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI)
+<div align="justify">National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI),&nbsp;2019-2021.
 </div>
 </li>
  <li>
-<div align="justify"><strong>2018-2019</strong>, Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI)
+<div align="justify">Tianjin Key Laboratory Opening Foundation “Research on anonymous authentication protocols of digital medical system for next-generation Internet”, Grant No.TJUT-KLICNST-K20170002 (PI),&nbsp;2018-2019.
 </div>
 </li>
 <dt></dt>
