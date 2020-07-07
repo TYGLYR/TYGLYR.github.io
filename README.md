@@ -11,7 +11,7 @@
 </div>
 <div id="section2">
 <h3></h3>
-<p align="justify"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正在招收2020年研究生，如你对信息安全、网络安全、未来网络感兴趣，或者对新兴技术应用感兴趣，欢迎加入，我愿和你共同学习成长！同时也欢迎优秀本科生参与！</b></p>
+
 <h3></h3>  
 <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography(密码学) from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security(信息安全),applied cryptography(应用密码学) and future network(未来网络). In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
 <h3>Projects</h3>项目
