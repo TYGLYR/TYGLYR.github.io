@@ -29,7 +29,7 @@
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Zi Zheng. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
+<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Xi Zheng. An authentication Framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
  </div>
 </li>
 <li>
