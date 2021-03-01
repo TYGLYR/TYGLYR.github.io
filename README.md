@@ -13,7 +13,7 @@
 <h3></h3>
 
 <h3></h3>  
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of network communication and security,applied cryptographyand future network. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. From 2017 to 2020, she was an assistant professor at Tianjin University. In 2020, she joined <a href=https://www.cauc.edu.cn/jsjxy/">School of Computer Science and Technology</a> at Civil Aviation University of China. Her research interests are mainly in the area of network communication and security,applied cryptographyand future network. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
 <h3>Projects</h3>
 <ul class="cv">
  <li>
@@ -29,7 +29,7 @@
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Xi Zheng. An authentication Framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
+<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Xi Zheng. An authentication framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
  </div>
 </li>
 <li>
@@ -49,21 +49,25 @@
 </li>
 </ul>
 <dt></dt>
-<h3>Services</h3>服务
+<h3>Services</h3>
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
 </div>
 </li>
 </ul>
- <h3>Teaching</h3>教学
+ <h3>Teaching</h3>
 <ul class="cv">
 <li>
 <div align="justify"><strong> Data Structure</strong>, Fall 2019 (BEng level). 
 </div>
 </li>
 </ul>
-<h3>Awards</h3>奖励
+<div align="justify"><strong> Information System and Security</strong>, Fall 2020 (BEng level). 
+ </div>
+</li>
+</ul>
+<h3>Awards</h3>
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Excellent Ph.D dissertation award of BUPT</strong>,&nbsp;June 2017.
