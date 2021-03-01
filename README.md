@@ -29,15 +29,15 @@
 <h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Xi Zheng. An authentication framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
+<div align="justify">  <strong>Yanrong Lu*</strong>, Mengshi Zhang, Xi Zheng. An authentication framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
  </div>
 </li>
 <li>
- <div align="justify">  <strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
+ <div align="justify">  <strong>Yanrong Lu*</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
 </div>
 </li>
 <li>
-<div align="justify"><strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
+<div align="justify"><strong>Yanrong Lu*</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Anonymous three-factor authenticated key agreement for wireless sensor networks. Wireless Networks.25(4): 1461-1475,2019.
 </div>
 </li>
 <li>
