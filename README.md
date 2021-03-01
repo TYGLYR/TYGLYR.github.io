@@ -62,6 +62,7 @@
 <div align="justify"><strong> Data Structure</strong>, Fall 2019 (BEng level). 
 </div>
 </li>
+</ul>
 <div align="justify"><strong> Information System and Security</strong>, Fall 2020 (BEng level). 
  </div>
 </li>
