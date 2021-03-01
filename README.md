@@ -13,8 +13,8 @@
 <h3></h3>
 
 <h3></h3>  
-<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography(密码学) from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of information security(信息安全),applied cryptography(应用密码学) and future network(未来网络). In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
-<h3>Projects</h3>项目
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;Yanrong Lu received her Msc(Military Science) and her DScMil in Cryptography from Xidian University and Beijing University of Posts and Telecommunications, in 2012 and 2017, respectively. In 2017, she joined <a href="http://cic.tju.edu.cn/">College of Intelligence and Computing</a> at Tianjin University as an Assistant Professor. Her research interests are mainly in the area of network communication and security,applied cryptographyand future network. In this area, she published more than 20 papers in international peer-reviewed journals, where 2 papers were listed as ESI highly cited papers. </p>
+<h3>Projects</h3>
 <ul class="cv">
  <li>
 <div align="justify">National Natural Science Foundation of China “Key technologies of identity privacy secure authentication in Information-Centric Network”, Grant No. 61802276 (PI),&nbsp;2019-2021.
@@ -26,10 +26,14 @@
 </li>
 <dt></dt>
 </ul>
-<h3>Selected Publications</h3>部分论文
+<h3>Selected Publications</h3>
 <ul class="cv">
 <li>
-<div align="justify">  <strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
+<div align="justify">  <strong>Yanrong Lu</strong>, Mengshi Zhang, Zi Zheng. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
+ </div>
+</li>
+<li>
+ <div align="justify">  <strong>Yanrong Lu</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
 </div>
 </li>
 <li>
