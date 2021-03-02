@@ -63,7 +63,7 @@
 </li>
 <li>
 <div align="justify"><strong> Information System and Security</strong>, Fall 2020 (BEng level). 
- </div>
+</div>
 </li>
 </ul>
 <h3>Awards</h3>
