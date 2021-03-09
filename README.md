@@ -53,9 +53,13 @@
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
+</li>
+<li>
+<div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. An anonymous two-factor authenticated key agreement scheme for session initiation protocol using elliptic curve cryptography. Multimedia Tools and Applications. 76(2), 2017.
 </div>
 </li>
 </ul>
+<dt></dt>
 <h3>Teaching</h3>
 <ul class="cv">
 <li>
