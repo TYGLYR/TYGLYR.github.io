@@ -30,7 +30,7 @@
 <ul class="cv">
 <li>
 <div align="justify">  <strong>Yanrong Lu*</strong>, Mengshi Zhang, Xi Zheng. An authentication framework in ICN-enabled industrial cyber-physical systems. 3rd EAI International Conference on Security and Privacy in New Computing Environments(SPNCE 2020), LNICST 344, pp.1-21,2021.
- </div>
+</div>
 </li>
 <li>
  <div align="justify">  <strong>Yanrong Lu*</strong>, Guangquan Xu, Lixiang Li, Yixian Yang. Robust privacy-preserving mutual authenticated key agreement scheme in roaming service	for Global Mobility Networks. IEEE Systems Journal.13(2): 1454-1465,2019.
@@ -53,9 +53,8 @@
 <ul class="cv">
 <li>
 <div align="justify"> <strong>Guest Editor</strong>,&nbsp;Journal of Sensor and Actuator Networks-Special Issue on "Adcances in RFID Security and Privacy", 2021. 
+</div>
 </li>
-</ul>
-<ul class="cv">
 <li>
 <div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
 </li>
