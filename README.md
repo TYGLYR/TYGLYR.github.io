@@ -52,22 +52,23 @@
 <h3>Services</h3>
 <ul class="cv">
 <li>
-<div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
+<div align="justify"> <strong>Guest Editor</strong>,&nbsp;Journal of Sensor and Actuator Networks-Special Issue on "Adcances in RFID Security and Privacy", 2021. 
 </li>
+</ul>
+<ul class="cv">
 <li>
-<div align="justify"><strong>Yanrong Lu</strong>, Lixiang Li, Haipeng Peng, Yixian Yang. An anonymous two-factor authenticated key agreement scheme for session initiation protocol using elliptic curve cryptography. Multimedia Tools and Applications. 76(2), 2017.
-</div>
+<div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
 </li>
 </ul>
 <dt></dt>
 <h3>Teaching</h3>
 <ul class="cv">
 <li>
-<div align="justify"><strong> Data Structure</strong>, Fall 2019 (BEng level).
+<div align="justify"><strong> Information System and Security</strong>, Fall 2020 (BEng level). 
 </div>
 </li>
 <li>
-<div align="justify"><strong> Information System and Security</strong>, Fall 2020 (BEng level). 
+<div align="justify"><strong> Data Structure</strong>, Fall 2019 (BEng level).
 </div>
 </li>
 </ul>
