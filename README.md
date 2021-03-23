@@ -56,7 +56,7 @@
 </div>
 </li>
 <li>
-<div align="justify"> <strong>Associate Editor</strong>,&nbsp;PLos One(JCR IF 2019: 2.776; Class 3 ), 2018-present. 
+<div align="justify"> <strong>Associate Editor</strong>,&nbsp;VLSICS Jouranl, 2020-present. 
 </div>
 </li>
 <li>
