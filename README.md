@@ -56,7 +56,7 @@
 </div>
 </li>
 <li>
-<div align="justify"> <strong>Associate Editor</strong>,&nbsp;VLSICS Journal, 2020-present. 
+<div align="justify"> <strong>Associate Editor</strong>,&nbsp;VLSICS, 2020-present. 
 </div>
 </li>
 <li>
