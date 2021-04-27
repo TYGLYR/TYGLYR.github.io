@@ -52,7 +52,7 @@
 <h3>Services</h3>
 <ul class="cv">
 <li>
-<div align="justify"> <strong>Guest Editor</strong>,&nbsp;Journal of Sensor and Actuator Networks-Special Issue on "Adcances in RFID Security and Privacy", 2021. 
+<div align="justify"> <strong>Guest Editor</strong>,&nbsp;Journal of Sensor and Actuator Networks-Special Issue on "Advances in RFID Security and Privacy", 2021. 
 </div>
 </li>
 <li>
